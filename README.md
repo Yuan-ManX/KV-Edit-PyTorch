@@ -1,7 +1,7 @@
 # KV-Edit PyTorch
 
 <p align="center">
-  <img src="KV-Edit.png" alt="KV-Edit" style="display:block; margin:auto; width:680px;" />
+  <img src="KV-Edit.png" alt="KV-Edit" style="display:block; margin:auto; width:880px;" />
 </p>
 
 PyTorch implementation of KV-Edit.
